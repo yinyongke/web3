@@ -1,0 +1,172 @@
+*{
+	padding: 0px;
+	
+	 margin: 0px auto;
+}
+#head{
+	overflow: hidden;
+    background: #ffffff;
+   
+  
+}
+ a{
+	text-decoration: none;
+    color: #8c8c8c;
+}
+#context{
+	width: 1160px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#jieshao{
+	width: 1160px;
+    
+    
+}
+#p1{
+	
+    width: 380px;
+    padding: 10px;
+    background:url(../img/brnad_xx.png);
+    float:right;
+
+}
+#jieshao #p1 #box{
+	width: 350px;
+    height: 230px;
+    padding: 10px 15px 0;
+    overflow: hidden;
+    background: #fff;
+    
+}
+#jieshao #p1 h2{
+	height: 39px;
+    line-height: 39px;
+    padding-left: 32px;
+    overflow: hidden;
+    border-bottom: 1px solid #d8d8d8;
+    margin-bottom: 12px;
+}
+#jieshao #p1 p{
+	color: #898888;
+    line-height: 26px;
+    height: 145px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-size: 14px;
+}
+#jieshao pr{
+	width: 740px;
+    overflow: hidden;
+    float: left;
+    
+}
+#b-t{
+	height: 76px;
+    overflow: hidden;
+    background: url(../img/brnad_dian.png) ;
+    text-align: center;
+    width: 1200px;
+    
+}
+#b-t span{
+	display: inline-block;
+	width: 500px;
+}
+#b-t img {
+	border: 0;
+}
+#sele{
+	height: 40px;
+    clear: both;
+    padding-bottom: 20px;
+}
+#sele a{
+	display: block;
+    float: left;
+    padding: 0 40px;
+    height: 38px;
+    line-height: 38px;
+    font-size: 16px;
+    border: 1px solid #e5e5e5;
+    border-left: none;
+}
+#sele a:hover{
+	color:chocolate ;
+	text-decoration:underline;
+}
+#sele a.on{
+	    background: #f8f8f8;
+    color: #222;
+}
+ #pin{
+	background-color: ghostwhite;
+}
+#bb1{
+	display: block;
+	width: 1160px;
+    overflow: hidden;
+}
+#mask{
+	width: 1180px;
+}
+#mask dl{
+	width: 245px;
+    height: 300px;
+    overflow: hidden;
+    padding: 14px 14px 8px;
+    border: 1px solid #ececec;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+#mask dd{
+	width: 245px;
+    overflow: hidden;
+    padding-top: 10px;
+    font-size: 14px;
+}
+#mask dt{
+	width: 245px;
+    height: 245px;
+    overflow: hidden;
+    text-align: center;
+
+}#dibu{
+	margin-top: 20px;
+    overflow: hidden;
+}
+
+#lianjie{
+	width: 100%;
+    min-width: 1160px;
+    background: #f2f2f2;
+    border-top: 1px solid #dfdfdf;
+    margin: 0 auto;
+    color: #5d5d5d;
+}
+#footlink{
+	    overflow: hidden;
+    font-size: 16px;
+    text-align: Center;
+    border-bottom: 1px solid #ddd;
+    height: 64px;
+    line-height: 64px;
+    padding: 0;
+}
+#footlink a{
+	color: #323232;
+    margin: 0 59px;
+}
+#footlink a:hover{
+    color:chocolate ;
+	text-decoration:underline;	
+}
+#dibu .footer_copy{
+	line-height: 60px;
+    text-align: center;
+    border-top: 1px solid #dfdfdf;
+    text-shadow: 1px 1px 0px #fff;
+    padding: 0;
+    color: #ccc;
+    font-size: 14px;
+}
